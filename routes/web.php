@@ -26,3 +26,6 @@ Route::get('/contacto', function () {
 })->name('contacto');
 
 
+
+
+
